@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Memory Scramble</string>
+    <string name="label_rows">Number of rows</string>
+    <string name="label_cols">Number of columns</string>
+    <string name="label_timeout">Timeout (seconds)</string>
+    <string name="btn_start">Start Game</string>
+</resources>
